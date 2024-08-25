@@ -5,6 +5,7 @@
 # BUUCTF WP
 该部分分享BUUCTF结题思路，希望对您有所帮助。
 
+- [[BUUCTF从零单排] Web方向 02.Web入门篇之『常见的搜集』解题思路（dirsearch工具详解）](https://blog.csdn.net/Eastmount/article/details/139843510)
 
 
 ---
